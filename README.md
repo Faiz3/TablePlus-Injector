@@ -43,6 +43,20 @@ old_byte = 02 7B C6 1C 00 04 2A
 new_byte = 17 00 00 00 00 00 2A
 ```
 
+## Install
+
+- Download Python>=v3.10.x
+- Clone https://github.com/xor5/tbplus-injector.git into this directory.
+```
+git clone https://github.com/xor5/tbplus-injector.git
+```
+Run in the terminal:
+```aiignore
+python main.py
+```
+
+Or you can download the executable file [TBPlusInjector-Setup](https://github.com/xor5/tbplus-injector/releases/tag/v1.0.)
+
 ## System Requirements
 
 - Windows 10 / 11 (64-bit)
