@@ -37,6 +37,13 @@ This tool is intended for experimentation, learning, and personal use.
 
 This tool was created through a series of reverse engineering processes using IDA Pro, then tested manually using HxD, by changing the validation so that it is always correct at the offset address.
 The following are the modified offset addresses and bytecode.
+
+- IDA Pro
+![IDA Pro](images/ida.png)
+
+
+- HxD
+![HxD](images/hxd.png)
 ```
 offset_address = 0x0016A211
 old_byte = 02 7B C6 1C 00 04 2A
